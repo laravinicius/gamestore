@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-Este repositório contém um site institucional estático da Game Store 41. `index.html` reúne o conteúdo e a estrutura da página; `styles.css` concentra os estilos, componentes visuais e regras responsivas; `images/` contém o favicon e as imagens usadas pelo site. Não há diretórios de código-fonte separados, suíte de testes ou configuração de build identificados.
+Este repositório contém um site institucional estático da Game Store. `index.html` reúne o conteúdo e a estrutura da página; `styles.css` concentra os estilos, componentes visuais e regras responsivas; `images/` contém o favicon e as imagens usadas pelo site. Não há diretórios de código-fonte separados, suíte de testes ou configuração de build identificados.
 
 ## Build, Test, and Development Commands
 

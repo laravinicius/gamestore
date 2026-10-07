@@ -31,7 +31,6 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--yellow); outlin
 .navlinks a:hover, .socials a:hover { color: var(--yellow); }
 .nav-cta { display: none !important; }
 .hero { min-height: min(780px, calc(100svh - 76px)); display: grid; align-items: center; position: relative; overflow: hidden; padding: clamp(76px, 10vw, 132px) 0; background: radial-gradient(ellipse at 88% 15%, rgba(239,50,60,.2), transparent 30%), radial-gradient(ellipse at 14% 100%, rgba(15,31,72,.64), transparent 45%), linear-gradient(135deg,#0b1019,#080b12 58%,#101728); }
-.hero:before { content: '41'; position: absolute; right: -.035em; bottom: -.22em; color: rgba(239,50,60,.075); font: 900 clamp(22rem, 43vw, 39rem)/.8 'Barlow Condensed'; pointer-events: none; }
 .hero:after { content: ''; position: absolute; inset: 0; opacity: .12; pointer-events: none; background-image: linear-gradient(rgba(255,255,255,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.07) 1px,transparent 1px); background-size: 52px 52px; mask-image: linear-gradient(90deg,transparent 15%,black); }
 .hero-grid { display: grid; gap: 54px; position: relative; z-index: 1; align-items: center; }
 .hero-copy h1 { font-size: clamp(4.4rem, 12vw, 9.8rem); margin: 19px 0 27px; max-width: 760px; }

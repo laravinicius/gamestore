@@ -1,6 +1,6 @@
-# Game Store 41
+# Game Store
 
-Site institucional da Game Store 41, loja de games em Campina Grande do Sul, Paraná. A página apresenta a loja, categorias de produtos, avaliações, localização, horários e atalhos para contato pelo WhatsApp e Instagram.
+Site institucional da Game Store, loja de games em Campina Grande do Sul, Paraná. A página apresenta a loja, categorias de produtos, avaliações, localização, horários e atalhos para contato pelo WhatsApp e Instagram.
 
 ## Visualizar localmente
 
